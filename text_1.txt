@@ -1,0 +1,20 @@
+Machine Learning: A Comprehensive Overview
+What is Machine Learning?
+Machine learning (ML) is a subset of artificial intelligence (AI) that enables systems to learn from data, identify patterns, and make decisions with minimal human intervention. ML algorithms aim to improve performance over time with more data exposure.
+
+Core Components of Machine Learning
+Decision Process: The algorithm uses input data (labeled or unlabeled) to make predictions or classifications.
+
+Error Function: Evaluates the model’s prediction accuracy by comparing it to known outcomes.
+
+Model Optimization: Adjusts weights through iterative evaluation to improve accuracy.
+
+ML, Deep Learning, and Neural Networks
+While often used interchangeably, these are distinct concepts:
+
+Machine Learning includes various learning techniques, relying on human-defined features.
+
+Deep Learning (a subfield of ML) uses multi-layered neural networks and can work with raw, unstructured data, minimizing the need for manual feature engineering.
+
+Neural Networks simulate the human brain using layers of nodes. A network with more than three layers qualifies as "deep."
+
